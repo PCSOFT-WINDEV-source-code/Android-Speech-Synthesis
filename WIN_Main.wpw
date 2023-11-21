@@ -1,0 +1,210 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : WIN_Main
+ major_version : 28
+ minor_version : 0
+ type : 2
+ description : ""
+ subtype : 0
+window :
+ name : WIN_Main
+ identifier : 0x266b2386027de971
+ internal_properties : CAAAAAgAAAC0tYzG8MkDjul3pWkYamueQGztwmMiUR0sYK7N/N8DzscaMpDQtOf4jCpq46a/pAF6LD7DeOtUtT80dkf9qmq1MqcrZGVxm6SZZel1mhddS5TdBSrFE2KsOEsVucGXtJviKkv5yOhewD6eu1LtM4nZTzEg9y/B8CvjfliYdrtqWsNgWA2uGSQFjl/QNMBFhDH75tDrpjyMHREX/aKMynNKS1oWmkvqSgS2a9kdXZEd1f71Wxy6DUw5M94rcL7+x0W5u3vj5XY57PZjWl+v71pCPaCw1ydl4lHVrHMWNCTFkT8CY245+sikh01rIPTI4OQ9uoNfy5CQyqBC49dQABZdFkxCxMzQUBOiYvPCkPER8uCy8j0I2WhANNoKuBPqphbYB7k+3mZe+sCy7keK8ZRfINWGrnFW0E6xxbhkRnurXizmaZgkHgsAfYHgyrOMhv3Ag9Zac04x+3zYRgHiYBIVjafeOj/e0BGQ/4yO50FEMsJS/zEmcHmQgVTZ0A2JzQGZXNl/h8gTvnKYdULnmOP4lrkUTokoyDPpV52gyDdV1HgI/5GKuJqJcMBsOz+JkXOpFeRvD23GKsPm6898UiVm03Pyzilmym+x0S6lAF4WnEiYpctL0app1lGamRbSI3e9wPOKkqMKDxy4pmGOIcD/nkGWcM/10seQNiIJHUmBTxwnIFjKD2SbfHUgaGdVYgs/rMNwnOprLgz9Tg0Z+QXU+HC055udDLfoMT1DPpomLqAWINDzhtGfOSX0tXhHN3LppAt1zpcm+Xgo5ovmg+jHE1xgSp0tGe5Pox+ofSWwU3nBLujt/ulpnPcLitUZow==
+ properties :
+  width : 320
+  height : 455
+  heightMin : 480
+ controls :
+  -
+    name : EDT_Text
+    identifier : 0x266b2386027ee971
+    internal_properties : CAAAAAgAAABCHlETBCTwMQ+6Arpu5JeGt8E5/AmJz3HuofZsawvywrpLicy6iINh+D6m8fXM3AKDvHXNKpGavEVOvHr++doBtOyIgTFqT+d9WooJs6z+LhwaEaOTK3r/0GWm2t+PmaNa9l0ACKLp/h+5yb/t0d/U5Bb5rxMus86R3FFDR0IjOtjU3wFcr84c9sBeJjttgLPjA3fgEL0PWhK95ZhwvqYdzKK2LR1IqcNIjAaDgaJrv3A1xpfvpQ7WCDleatjym0uc+evFTYxS7hdiOd+IkOUR0bwQSc119lCn2ZsIKM+PWD55ZTonf4YCW+Teyjt7tJTufjM+Ln+/YQ2UrZcC3Jk6mVkr+GIILoazGlDq2i1d+n6TKONGZCOwgr8OPx4miGnz3IkTbZAl+/JncF2AApJIS1wGM7zggoRS3RND6URKmm6yzryRBXBj4VTuhiZnQjUqX5llWwAWm9FChHPFrGhP0tzkddbpOA0EGWoJUOHi1fsf0F7NeZFxgQ5zbQcO16CXUkAQmkpwR6YBQhDt7ch5VgGxxlg6naL4B2j6DG7VWiQZV2E6I1TZA2pyTgurjaP8AOABD/JIpGVdZP0kM2mf/6Ffb4KOw2JhV7oooGYyTHhGyCtKC8KH6NOz5CsF98yS7ovCw5V70Ut2MiZqgpqBxn7Z6ElmpHQ+6sZ3R1jNPHPWlAM4ltJdgdP2+JRZGHx05ulN40edFgT1pTJ2DaO3oJ3BAyA3whDUX0XPkUQH5S5htco0sPkbgBt1C7Fjh692r2hMggs1DNXxS/vyetCvSnjeY8BEcPlkS+EqrPk6WhiGzN/u5igjv/X0ZQtNOyaZNyGX2VM1bBcL8zYNNL81d/PAHo8mpDo63pjJu6TwnXi0gz5kjeKD6DdS6NngjAjqlyPseMGqcyGYRvUJnNZ/jL1euHQv7Aim61QcBm7tv2mOsUGFOXjMJG/1ARJwjF5gOw87k3zg73MNq5Oxr9xD+NNxWFI3ct4XHwS/jpux1qou437GXSoyK8XUQvaAB9m0H3zUHo/qfGy58ODtIWqcPcm5MydoujNXbiH6/eCZqxHvmgVgDhkXwYlGi0EZjSIPzL1gayRSOgCEUA97GG+dzwtu+7uoy9NrUrXC6/XZPMkxiFgndS8BIoTKHZ32JNzL8d0xhL2m0zdl7yZ6dK3NQr2f/MJ6ok1DBGSlI7HMQ1yPN/e7pBQew4pwv5R9f+5Y+77ufvlaVvWj0Y+5fayAeF395iSYkcpv9thsznRJOJVMYda96WDgyg==
+    properties :
+     x : 10
+     y : 10
+     width : 300
+     height : 148
+    type : 2
+    code_elements :
+     type_code : 3
+     p_codes :
+      -
+        type : 276
+        enabled : false
+      -
+        type : 277
+        enabled : false
+      -
+        type : 278
+        enabled : false
+  -
+    name : BTN_SynthesisJar
+    identifier : 0x266b2386027fe971
+    internal_properties : CAAAAAgAAAAIJ38N/UL8I4b4gCddHmTUACW0K16nMq1A18BtwgZrOo3GHiFW4ljlNBfnhwZ6yfy7ay04hbDMUCwTyFPx09VSmv6RqowqQQKGxet6+I4o//QPFK9nRuIc2B5Zo0ct9KeHAzLXCDlxVi6crGdPxR0tKnEMukpThXFpKJKzXFszw4qRCzhd6H0o/K8GoQE53gC8kZGVGj5dvFDQL+K3I21f8vU7epAfOsIAJ6L0r1pwQsknMk6BNYaAFmaYqLwTq2ACctZsuWRosMGq+aK+9xeD0XqYnw4sURj5Q7TTzgFk9z7c2GV4XBTmcn6Y3eHKw/nLGAwvVWBYdWj/ntsxs2atPQdTMM455bAxRH4KTkwn17sw3Kxdh0xPAPgzigpdVbKh5MJ2tKXOv7moXmd+GnnZF3tDhIsk804Juw8b3RKmZL5H3u7EWgE8njHleGSQLtx5M/ud2gD3ZbImLvVWktZu/28YzkaQFZQGzWgq8oIXe57b/WRIXKSEKDma4C7xU+nVAO9btA8x1PwTxpzl7dTqm0zLhlyf7A66TbrQCCWi4tD/JT/ew52gLnSLMXGfi1iNi2OVzvLo/noLOzKq7r14h58Vsu+lr76imMPZjaBmo7zzQ3rK77z00yrXmfEz/Ea4BIAsyX89SlMdMRd9DZecKMjxnclYaztwpkc/Ji13WrJvbFjFteXgFeTcUDGrxz+JDNfHeZpdK0H5qbX/cV4L+4VzVb0DxYLGCwEKyQs0eCQSYLpNFhCq8FSIR2M60dHxtXN6m8QE4aaVdU14Di+5iwz4wcvTl+ShYfs1DkMmwnx02OsRGckz9B4Dm22GATq6uq/fITPVczkOXlIdIxMADHslcla6yTWIc6+QWOg53MjPXq7qELlI3Cg0loMHa8YF16s9ewn6OYUsm1NjA1audjxKmeBRipZtE987gbLUAKqcxwaEd9Xbl2X1BeKae74FEQ==
+    properties :
+     x : 10
+     y : 166
+     width : 300
+     height : 91
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        code : |1-
+         
+         // Initialize the speech synthesis
+         ReadingJAR()
+        type : 18
+      -
+        type : 161
+        enabled : false
+  -
+    name : BTN_Recognition
+    identifier : 0x266b23860280e971
+    internal_properties : CAAAAAgAAACFzzP19s5zN4L55tdKPHGtR9lK1Fe2loWZ7YOHou/iPguDKvFwPjiDp25ybI9s0QoiI3kLzWsZJs0IKDVRjbZbBLCkKDX+vYpxVwe3ZzAC9VT1mASZOBLEtCu9Ou55ObimDx0prmwzE//LhPWVAZfYFeIhEbSmcVWYVcQnzwzFLl+KPm5E+Lr2WUFt3/rLXU0hlKvVDlk4n6DImtGCB8NCQ5ORBHUux/RAVsMNO8vDN4N8+F/dvFAwxyXb8x46kY1lcG2jB1D4mMjJ2X7P9xUxS0dZoUYR/e4pYvW1tbVfjaxfSxq5wwDYN7Ps+55bQUIB80QFoIHcAg9j5ZR4FsraG/XptXbrq3eQp/3lzcIQ3+OmFvOQENqJ+hM6yY5x3a9e5KuJlStO8Zcd9d39bQ8v9iCjSc+wtVgKNRt/8zSg0I7227unMNFHUuNHYjDmF64TYcc4JV5HqZjgey7NZoM1HdBBUuZbdhnY8/yVLi1uhEQxLVmmroT5qYWDk8Q9+4Z7vTQhAhP6x8fpXAojSiyyt/raMFRot7STCFx7C9ZqsMeK8JMJMfqXWeT6byK0uLJx0jDF7KG2ogRcySn9nPSwtA89/ahtqJb12R1PrGgQqfYVW/XtVXwBs57BMKo1yPLAmSqEem84z/lMfCAUUYvyhHU+1zd5+ZjvuIwvDwfFuAgNFOlWNMYFETXT9Q1X5YZ84pY30a+o+qcUr4pYqmwEih/ulDxqDlcXdsPMTKB6ZGh4PqNxaJPMj0GBWpWbuMyljy9F29+e7ELjQgeHCTptlZRM00wtUNIo7LFPNwHySg+86ooIaVaJYH68l3kavSM9ArVq8y974WZPZl0ti9dpESAI+HTk6wkGrxQBLFIgbKE6cJqOfEdaY67UTbtzu6BY43kIQZWBVWO70yTsAKj+OfZpovxIWAPb+FlC
+    properties :
+     x : 10
+     y : 358
+     width : 300
+     height : 91
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        code : |1-
+         
+         // Initialize the speech recognition
+         SpeechRecognitionAddCommand(ReadingJAR,<§$0003§>)
+         SpeechRecognitionTrigger(<§$0001§>)
+        type : 18
+      -
+        type : 161
+        enabled : false
+  -
+    name : BTN_SynthesisJar1
+    identifier : 0x266b23860281e971
+    internal_properties : CAAAAAgAAABSNYnlDmHDqLyDB//EoeFnUGY68X4bVGDBZU1g/Y44Ou4aAl7lGk/P8EaW+ZXi0cmTSFbuISmH6caTYOQxkS6oAXXAwOBMsfYeHeBb+63fzgZ0BBQL6Qc1GuoZ4MZzKkLifC0EAv80yW0u+Pr5DoVdA8qrIsUWrNJKP6IVZftcVF2aSWKGB+evgIGsHYQyQchPoxDsqjtv7E0xlHlworuXXU+6tNGmqA70DwZq1idRUlSXq97YP8LJZK5M9SE1wIk45pfzZqaU2lcRREavY0z6PNnBlBzvwPSz5YFTo0/CUzFu/t3vJd9VKYal43ye56K4RavTc/6mQzdsKwiZ3dfX7jUIzEs01br+BJK21JQNdcVbZl+pZVI7Ft9O9DizV2zrmS/ziHTBXTGf/FKB9s7QAr3xt33TnwnniGB3uY48kG12lJq62w/EE8F8rfWE8MbwEJGXJk9iVb0zkLALlMFf9tbnQhkfFNHsY3QC5dp01GM3J4erqfuSvClA/YwnIVJbzbhJTL72/2GVNvn6DEHaf6OdVjlcww7N2ybmXZQdTYGA3yqhfKYHdW2NnHq/8OUj2lNk9NX9KtMhVOIxVv9X0cjXu9Yd5w67lJjHNop5DJ8HWdbt7dWlWD8Eo/1+4hR3/cm9+9OPelHvfequ+yjBRLagqLMpIfU4FsFkbq5sfpZr6H+e43UpQiyI/upVHTG+6gnHDTy0u9HAq27Je0cQ+OjDN9zwAmEovnv2gyJbtiFOrxgLTlrNXts5HvBYovkQKBHQbyBiTPDJ0NFxJHTDOWDNLmvGx4gYAEcwHi3/X41DlkBh/thNMp869wqMiOCZXV1+UFRSKOCz+uaCCgGr6NxXEhHD9diB78oJQri7J671QqGU4q8LFP7ffmGxFhN+ssekYGKqO9FoNWPCU9HecQeuSarQVS8b1x5mpCnvR9Y=
+    properties :
+     x : 10
+     y : 262
+     width : 300
+     height : 91
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        code : |1-
+         
+         // Start the speech synthesis
+         SpeechSynthesisReadText(EDT_Text)
+        type : 18
+      -
+        type : 161
+        enabled : false
+ menu :
+  name : _Menu
+  identifier : 0x2af05ae62691eeec
+  internal_properties : CAAAAAgAAADgMVTORwj2Mt8z/R5WRL0mTVIMDO11ij5YdBwcO3ZAw8tWdEBL95DgWGGgMGBRKql5dANp5Vg/qpNyJvJQ8sIrr6GzC+masJIwyV5P7DpW0go2kGsf4EvdW1eqlu6V7I5EHVrMjd02cTaXwP0dbd1DSbdsd/Wxk0ScMGI7Z0eDsGOMLRfieoTYskOjcLtA7tgFoR24z+3d3zH3Bloaoqj6XKllvOzqHQUKs5ikiJtsiZpXF9leDIYykRzjnC4k4qQVjthAFpugw+diG+HfnEMv+L/rU3DRjlIiDq+0aeUP
+  options : []
+ languages :
+  - en-GB
+ popup_menus : []
+ message_bar :
+  internal_properties : CAAAAAgAAAA8Y6DSCe3bXce6auSDUcG0wLTA3qNKwn6ucoijsCL56/V259V6hOvv/TEmfRAlh5J8mGxXNLZx5elYMqcyiTKb4kaJ99bDoP6lGTFBynWdooYvd0rkR8qvhPV9
+ actionbar : {}
+ code_elements :
+  internal_properties : CAAAAAgAAACvhiIr8gSQ5loUp83uTso9CuLc4dExenO6nYq0wt6wNhhy8DIKk+8xrI7GMink5ce8SLehbaZBjJVyvy60Arg=
+  type_code : 1
+  p_codes :
+   -
+     code : |1+
+      
+      
+   -
+     code : |1+
+      
+      // Initialize the speech synthesis for JAR
+      InitializeSpeechSynthesis()
+     type : 34
+   -
+     type : 180
+     enabled : false
+   -
+     type : 230
+     enabled : false
+   -
+     code : |1-
+      
+      // Stop the speech synthesis in order to free the resources
+      StopSpeechSynthesis()
+     type : 2
+   -
+     code : |1+
+      
+      
+     type : 11
+   -
+     code : |1+
+      
+      
+     type : 12
+   -
+     code : |1+
+      
+      
+     type : 17
+   -
+     code : |1+
+      
+      
+     type : 13
+  procedures :
+   -
+     name : ReadingJAR
+     procedure_id : 1615423949782444401
+     type_code : 14
+     code : |1-
+      
+      // Summary: Starts the speech synthesis
+      //
+      PROCEDURE ReadingJAR()
+      
+      // Read the text
+      IF ReadText(EDT_Text) = False THEN
+      	Info(<§$0000§>)
+      END
+     type : 458752
+  procedure_templates : []
+  property_templates : []
+ code_parameters :
+  internal_properties : CAAAAAgAAADeQcze1Ixqfwn6yOfjwsQ7IKxuiqMzbTygTLeVXFH8DB0WqXgSKvkzRoO0/Z27dfrh8D+BLYmMenjdtZezotw6hJf2mE4Gv6OctA==
+  original_name : FEN_Fenêtre1
+resources :
+ string_res :
+  identifier : 0x1cadc4f1000e2b88
+  internal_properties : CAAAAAgAAACyXVFaObH4lOGSEHJoZf1MD49w+XTw2LScZCP/urkWFwy+HYJdyQ3umA==
+  strings :
+   -
+     text :
+      en-GB : The text was not read because the speech synthesis was not initialized or installed.
+     index : 0
+   -
+     text :
+      en-GB : Say "Hello " to start the synthesis.
+     index : 1
+   -
+     text :
+      en-GB : We are using the speech recognition.
+     index : 2
+   -
+     text :
+      en-GB : Hello
+     index : 3
+custom_note :
+ internal_properties : CAAAAAgAAAC68/W0/adbG0nFCRhrE42B5HRnbDzVHaz86sSQyxlBk7I=
+rad :
+ internal_properties : CAAAAAgAAABoAN7PLpwJW3EiA7WVZdCA5EwrCA1rvutcDHooMWKe

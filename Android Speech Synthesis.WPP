@@ -1,0 +1,109 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : Android Speech Synthesis
+ major_version : 28
+ minor_version : 0
+ type : 4097
+ description : ""
+ subtype : 0
+project :
+ identifier : 0x0
+ internal_properties : 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
+ configurations :
+  -
+    name : Android Speech Synthesis
+    internal_properties : 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
+    configuration_id : 10728545249419796163
+    type : 15
+    version : {}
+    language : 2
+ elements :
+  identifier : 0x4cadc4b9000250c4
+  elements :
+   -
+     name : pSynthesis
+     identifier : 0x4cadc8ff00610295
+     internal_properties : CAAAAAgAAAAhHRkNuufP4O7Yu6FYo9I1FXR8NJHuPwpOSynnqkLIOIhYveEokLJyy3JsVNwU7NwkLA==
+     physical_name : .\pSynthesis.wdg
+     type : 7
+   -
+     name : WIN_Main
+     identifier : 0x4cadc54400577045
+     internal_properties : CAAAAAgAAAAoJhAMu+DI05/J4HaNuflowLM/99Cls7yKPL3P6ASIeEyicb1DveUnvGNdW9sV7eMtNQ==
+     physical_name : .\WIN_Main.wpw
+     type : 2
+  other_elements :
+   -
+     physical_name : .\AndroidSpeechSynthesis.jar
+     configurations :
+      -
+        internal_properties : CAAAAAgAAABXAdPILp6HqWWiNgiDyzk/1KgPR6ktkoMMCHcjMGOf
+        configuration_id : 10728545249419796163
+        excluded : true
+   -
+     physical_name : .\talk_36.png
+     configurations :
+      -
+        internal_properties : CAAAAAgAAAD8s1gpoAka2wWEdhpfRA==
+        configuration_id : 10728545249419796163
+        excluded : true
+   -
+     physical_name : .\talk_48.png
+     configurations :
+      -
+        internal_properties : CAAAAAgAAAD8s1gpoAka2wWEdhpfRA==
+        configuration_id : 10728545249419796163
+        excluded : true
+   -
+     physical_name : .\talk_72.png
+     configurations :
+      -
+        internal_properties : CAAAAAgAAAD8s1gpoAka2wWEdhpfRA==
+        configuration_id : 10728545249419796163
+        excluded : true
+  net_assemblies : []
+  uwp_api : []
+  external_components : []
+  internal_components : []
+ report_and_queries_enabled : false
+ common_generation_directory : true
+ languages :
+  - en-GB
+ url_rewriting :
+  internal_properties : CAAAAAgAAADkPzcUdUUS7wCiun+MCjqYH70RJdzkSv/nRvXZ3ENdikMa6bcHtsAH
+ code_elements :
+  internal_properties : CAAAAAgAAAAxBlu94e7jp+awryLV7fQuzPVI6TUcFTaPEBJ5sEVev/XFUaAQGC1zUFOsJr0nkEorOw0nmuDyaGaiZNyQnDqVfYJdzZrqUv51EdEmWpY+Eo0KrP5rT0JE0zs=
+  type_code : 0
+  p_codes :
+   -
+     code : |1-
+      
+      IF InAndroidEmulatorMode() _OR_ InAndroidSimulatorMode() THEN
+      	EndProgram("This example must not be used in simulation.")
+      END
+     type : 196608
+   -
+     type : 196621
+   -
+     type : 196627
+     enabled : false
+  orphans :
+   -
+     name : Android Speech Synthesis
+     identifier : 0x4cadc4b9000350e3
+     code_elements :
+      type_code : 159
+      p_codes : []
+ code_parameters :
+  internal_properties : CAAAAAgAAACVGQgYbalU7DKC3oH4ItDrjtcTHXXV/EuH8q0IbhyQlw==
+rad :
+ internal_properties : CAAAAAgAAABhIL0UXeZmxDJxY3Xy0Q==
+project_explorer :
+ explorer_type : project
+resources :
+ string_res :
+  identifier : 0x0
+  internal_properties : CAAAAAgAAACm76HWfKGWp33VjXInA4cRlqArlgTTA862QGt72W2ld5Y=
+custom_note :
+ internal_properties : CAAAAAgAAAAd98VSJfHHqE3P0QHwrwdhn7ig8dWBR6valpUTgnAMTVXiDg==
